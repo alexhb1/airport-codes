@@ -34,8 +34,6 @@
 
     .history {
       text-align: left;
-      height: 200px;
-      overflow-y: auto;
     }
 
     .history h3 {
@@ -45,7 +43,8 @@
     }
 
     .flag-emoji {
-      font-size: 22px; /* Increase flag emoji size */
+      font-size: 22px;
+      vertical-align: middle;
     }
 
     @media (max-width: 767px) {
@@ -81,7 +80,7 @@
     }
 
     const airportData = {
-        "AEY": {
+      "AEY": {
     "name": "Akureyri Airport",
     "countryCode": "IS"
   },
@@ -2786,6 +2785,16 @@
 
     const history = [];
 
+    function addToHistory(airportCode, airportName, countryFlagEmoji) {
+      const historyItem = `${countryFlagEmoji} ${airportCode} - ${airportName}`;
+      if (!history.includes(historyItem)) {
+        history.push(historyItem);
+        const listItem = document.createElement("li");
+        listItem.innerHTML = historyItem;
+        historyList.insertBefore(listItem, historyList.firstChild);
+      }
+    }
+
     airportCodeInput.addEventListener("input", () => {
       const airportCode = airportCodeInput.value.toUpperCase();
       if (airportCode.length === 3 && airportData[airportCode]) {
@@ -2794,13 +2803,7 @@
         const airportName = `${countryFlagEmoji} ${airportInfo.name}`;
         airportInfoDiv.innerHTML = airportName;
 
-        const historyItem = `${countryFlagEmoji} ${airportCode} - ${airportInfo.name}`;
-        if (!history.includes(historyItem)) {
-          history.push(historyItem);
-          const listItem = document.createElement("li");
-          listItem.innerHTML = historyItem;
-          historyList.appendChild(listItem);
-        }
+        addToHistory(airportCode, airportInfo.name, countryFlagEmoji);
       } else {
         airportInfoDiv.innerHTML = "";
       }
