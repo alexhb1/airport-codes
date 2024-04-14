@@ -1,0 +1,675 @@
+JAM,Bezmer Air Base,BG
+AEY,Akureyri Airport,IS
+EGS,Egilsstaðir Airport,IS
+HFN,Hornafjörður Airport,IS
+HZK,Húsavík Airport,IS
+IFJ,Ísafjörður Airport,IS
+KEF,Keflavik International Airport,IS
+RKV,Reykjavik Airport,IS
+SIJ,Siglufjörður Airport,IS
+VEY,Vestmannaeyjar Airport,IS
+PRN,Priština Adem Jashari International Airport,XK
+TXC,Orsha Airport - Balbasovo Air Base,BY
+ANR,Antwerp International Airport (Deurne),BE
+BRU,Brussels Airport,BE
+CRL,Brussels South Charleroi Airport,BE
+KJK,Wevelgem Airport,BE
+LGG,Liège Airport,BE
+OST,Ostend-Bruges International Airport,BE
+AOC,Altenburg-Nobitz Airport,DE
+HDF,Heringsdorf Airport,DE
+FNB,Neubrandenburg Airport,DE
+BER,Berlin Brandenburg Airport,DE
+DRS,Dresden Airport,DE
+ERF,Erfurt Airport,DE
+FRA,Frankfurt Airport,DE
+FMO,Münster Osnabrück Airport,DE
+HAM,Hamburg Helmut Schmidt Airport,DE
+CGN,Cologne Bonn Airport,DE
+DUS,Düsseldorf Airport,DE
+MUC,Munich Airport,DE
+NUE,Nuremberg Airport,DE
+LEJ,Leipzig/Halle Airport,DE
+SCN,Saarbrücken Airport,DE
+STR,Stuttgart Airport,DE
+HAJ,Hannover Airport,DE
+BRE,Bremen Airport,DE
+HHN,Frankfurt-Hahn Airport,DE
+MHG,Mannheim-City Airport,DE
+EIB,Eisenach-Kindel Airport,DE
+SGE,Siegerland Airport,DE
+XFW,Hamburg-Finkenwerder Airport,DE
+KEL,Kiel-Holtenau Airport,DE
+LBC,Lübeck Blankensee Airport,DE
+FMM,Memmingen Allgau Airport,DE
+MGL,Mönchengladbach Airport,DE
+PAD,Paderborn Lippstadt Airport,DE
+NRN,Weeze Airport,DE
+DTM,Dortmund Airport,DE
+AGB,Augsburg Airport,DE
+OBF,Oberpfaffenhofen Airport,DE
+FDH,Friedrichshafen Airport,DE
+SZW,Schwerin Parchim Airport,DE
+BYU,Bayreuth Airport,DE
+HOQ,Hof-Plauen Airport,DE
+FKB,Karlsruhe Baden-Baden Airport,DE
+LHA,Lahr Airport,DE
+BWE,Braunschweig-Wolfsburg Airport,DE
+KSF,Kassel-Calden Airport,DE
+GWT,Westerland Sylt Airport,DE
+KDL,Kärdla Airport,EE
+URE,Kuressaare Airport,EE
+EPU,Pärnu Airport,EE
+TLL,Lennart Meri Tallinn Airport,EE
+TAY,Tartu Airport,EE
+ENF,Enontekio Airport,FI
+KEV,Halli Airport,FI
+HEL,Helsinki Vantaa Airport,FI
+KTQ,Kitee Airport,FI
+IVL,Ivalo Airport,FI
+JOE,Joensuu Airport,FI
+JYV,Jyväskylä Airport,FI
+KAU,Kauhava Airfield,FI
+KEM,Kemi-Tornio Airport,FI
+KAJ,Kajaani Airport,FI
+KHJ,Kauhajoki Airfield,FI
+KOK,Kokkola-Pietarsaari Airport,FI
+KAO,Kuusamo Airport,FI
+KTT,Kittilä Airport,FI
+KUO,Kuopio Airport,FI
+LPP,Lappeenranta Airport,FI
+MHQ,Mariehamn Airport,FI
+MIK,Mikkeli Airport,FI
+OUL,Oulu Airport,FI
+POR,Pori Airport,FI
+RVN,Rovaniemi Airport,FI
+SVL,Savonlinna Airport,FI
+SJY,Seinäjoki Airport,FI
+SOT,Sodankyla Airport,FI
+TMP,Tampere-Pirkkala Airport,FI
+TKU,Turku Airport,FI
+UTI,Utti Air Base,FI
+VAA,Vaasa Airport,FI
+VRK,Varkaus Airport,FI
+YLI,Ylivieska Airfield,FI
+BFS,Belfast International Airport,GB
+ENK,Enniskillen/St Angelo Airport,GB
+BHD,George Best Belfast City Airport,GB
+LDY,City of Derry Airport,GB
+BHX,Birmingham International Airport,GB
+CVT,Coventry Airport,GB
+GLO,Gloucestershire Airport,GB
+NQT,Nottingham Airport,GB
+MAN,Manchester Airport,GB
+YEO,RNAS Yeovilton,GB
+CAL,Campbeltown Airport,GB
+EOI,Eday Airport,GB
+HAW,Haverfordwest Airport,GB
+CWL,Cardiff International Airport,GB
+SWS,Swansea Airport,GB
+BRS,Bristol Airport,GB
+LPL,Liverpool John Lennon Airport,GB
+LTN,London Luton Airport,GB
+BOH,Bournemouth Airport,GB
+SOU,Southampton Airport,GB
+NQY,Cornwall Airport Newquay,GB
+ACI,Alderney Airport,GG
+GCI,Guernsey Airport,GG
+JER,Jersey Airport,JE
+ESH,Shoreham Airport,GB
+BQH,London Biggin Hill Airport,GB
+LGW,London Gatwick Airport,GB
+LCY,London City Airport,GB
+FAB,Farnborough Airport,GB
+BBS,Blackbushe Airport,GB
+LHR,London Heathrow Airport,GB
+SEN,Southend Airport,GB
+LYX,Lydd Airport,GB
+CAX,Carlisle Airport,GB
+BLK,Blackpool International Airport,GB
+HUY,Humberside Airport,GB
+BWF,Barrow Walney Island Airport,GB
+LBA,Leeds Bradford Airport,GB
+WRT,Warton Aerodrome,GB
+CEG,Hawarden Airport,GB
+IOM,Isle of Man Airport,IM
+NCL,Newcastle Airport,GB
+MME,Teesside International Airport,GB
+EMA,East Midlands Airport,GB
+VLY,Anglesey Airport,GB
+KOI,Kirkwall Airport,GB
+LSI,Sumburgh Airport,GB
+WIC,Wick Airport,GB
+ABZ,Aberdeen Dyce Airport,GB
+INV,Inverness Airport,GB
+GLA,Glasgow International Airport,GB
+EDI,Edinburgh Airport,GB
+ILY,Islay Airport,GB
+PIK,Glasgow Prestwick Airport,GB
+BEB,Benbecula Airport,GB
+DND,Dundee Airport,GB
+SYY,Stornoway Airport,GB
+BRR,Barra Airport,GB
+TRE,Tiree Airport,GB
+ADX,Leuchars Station Airfield,GB
+LMO,RAF Lossiemouth,GB
+CBG,Cambridge Airport,GB
+NWI,Norwich Airport,GB
+STN,London Stansted Airport,GB
+EXT,Exeter International Airport,GB
+OXF,Oxford (Kidlington) Airport,GB
+BEX,RAF Benson,GB
+LKZ,RAF Lakenheath,GB
+MHZ,RAF Mildenhall,GB
+FFD,RAF Fairford,GB
+BZZ,RAF Brize Norton,GB
+ODH,RAF Odiham,GB
+NHT,RAF Northolt,GB
+QCY,RAF Coningsby,GB
+BEQ,RAF Honington,GB
+SQZ,RAF Scampton,GB
+WTN,RAF Waddington,GB
+KNF,RAF Marham,GB
+AMS,Amsterdam Airport Schiphol,NL
+MST,Maastricht Aachen Airport,NL
+EIN,Eindhoven Airport,NL
+GRQ,Groningen Airport Eelde,NL
+GLZ,Gilze Rijen Air Base,NL
+DHR,De Kooy Airfield / Den Helder Naval Air Station,NL
+LEY,Lelystad Airport,NL
+LWR,Leeuwarden Air Base,NL
+RTM,Rotterdam The Hague Airport,NL
+ENS,Twente Airport,NL
+UDE,Volkel Air Base,NL
+WOE,Woensdrecht Air Base,NL
+ORK,Cork Airport,IE
+GWY,Galway Airport,IE
+CFN,Donegal Airport,IE
+DUB,Dublin Airport,IE
+NOC,Ireland West Knock Airport,IE
+KIR,Kerry Airport,IE
+SNN,Shannon Airport,IE
+SXL,Sligo Airport,IE
+WAT,Waterford Airport,IE
+AAR,Aarhus Airport,DK
+BLL,Billund Airport,DK
+CPH,Copenhagen Kastrup Airport,DK
+EBJ,Esbjerg Airport,DK
+KRP,Karup Airport,DK
+MRW,Lolland Falster Maribo Airport,DK
+ODE,Odense Airport,DK
+RKE,Copenhagen Roskilde Airport,DK
+RNN,Bornholm Airport,DK
+SGD,Sønderborg Airport,DK
+CNL,Sindal Airport,DK
+SKS,Skrydstrup Air Base,DK
+SQW,Skive Airport,DK
+TED,Thisted Airport,DK
+FAE,Vágar Airport,FO
+STA,Stauning Airport,DK
+AAL,Aalborg Airport,DK
+LUX,Luxembourg-Findel International Airport,LU
+AES,"Ålesund Airport, Vigra",NO
+ANX,"Andøya Airport, Andenes",NO
+ALF,Alta Airport,NO
+BNN,"Brønnøysund Airport, Brønnøy",NO
+BOO,Bodø Airport,NO
+BGO,"Bergen Airport, Flesland",NO
+BJF,Båtsfjord Airport,NO
+BVG,Berlevåg Airport,NO
+KRS,"Kristiansand Airport, Kjevik",NO
+BDU,Bardufoss Airport,NO
+EVE,"Harstad/Narvik Airport, Evenes",NO
+VDB,"Fagernes Airport, Leirin",NO
+FRO,Florø Airport,NO
+OSL,"Oslo Airport, Gardermoen",NO
+HAU,"Haugesund Airport, Karmøy",NO
+HFT,Hammerfest Airport,NO
+HVG,"Honningsvåg Airport, Valan",NO
+KSU,"Kristiansund Airport, Kvernberget",NO
+KKN,"Kirkenes Airport, Høybuktmoen",NO
+LKN,Leknes Airport,NO
+MEH,Mehamn Airport,NO
+MOL,"Molde Airport, Årø",NO
+MJF,"Mosjøen Airport, Kjærstad",NO
+LKL,"Lakselv Airport, Banak",NO
+NTB,Notodden Airport,NO
+OLA,Ørland Airport,NO
+HOV,"Ørsta-Volda Airport, Hovden",NO
+MQN,"Mo i Rana Airport, Røssvoll",NO
+RVK,"Rørvik Airport, Ryum",NO
+RRS,Røros Airport,NO
+RYG,"Moss Airport, Rygge",NO
+LYR,"Svalbard Airport, Longyear",NO
+SVJ,"Svolvær Airport, Helle",NO
+SKN,"Stokmarknes Airport, Skagen",NO
+SKE,Skien Airport,NO
+SRP,"Stord Airport, Sørstokken",NO
+SOJ,Sørkjosen Airport,NO
+VAW,"Vardø Airport, Svartnes",NO
+SSJ,"Sandnessjøen Airport, Stokka",NO
+TOS,"Tromsø Airport, Langnes",NO
+TRF,"Sandefjord Airport, Torp",NO
+TRD,"Trondheim Airport, Værnes",NO
+VDS,Vadsø Airport,NO
+SVG,"Stavanger Airport, Sola",NO
+BZG,Bydgoszcz Ignacy Jan Paderewski Airport,PL
+GDN,Gdańsk Lech Wałęsa Airport,PL
+KRK,Kraków John Paul II International Airport,PL
+KTW,Katowice International Airport,PL
+LUZ,Lublin Airport,PL
+LCJ,Łódź Władysław Reymont Airport,PL
+WMI,Modlin Airport,PL
+POZ,Poznań-Ławica Airport,PL
+RDO,Radom Airport,PL
+RZE,Rzeszów-Jasionka Airport,PL
+SZZ,"Szczecin-Goleniów ""Solidarność"" Airport",PL
+SZY,Olsztyn-Mazury Airport,PL
+WAW,Warsaw Chopin Airport,PL
+WRO,Copernicus Wrocław Airport,PL
+IEG,Zielona Góra-Babimost Airport,PL
+RNB,Ronneby Airport,SE
+GOT,Gothenburg-Landvetter Airport,SE
+JKG,Jönköping Airport,SE
+GSE,Gothenburg City Airport,SE
+KVB,Skövde Airport,SE
+THN,Trollhättan-Vänersborg Airport,SE
+KSK,Karlskoga Airport,SE
+MXX,Mora Airport,SE
+NYO,Stockholm Skavsta Airport,SE
+SCR,Scandinavian Mountains Airport,SE
+KID,Kristianstad Airport,SE
+KLR,Kalmar Airport,SE
+MMX,Malmö Sturup Airport,SE
+HAD,Halmstad Airport,SE
+VXO,Växjö Kronoberg Airport,SE
+EVG,Sveg Airport,SE
+GEV,Gällivare Airport,SE
+KRF,Kramfors-Sollefteå Höga Kusten Airport,SE
+LYC,Lycksele Airport,SE
+SDL,Sundsvall-Härnösand Airport,SE
+OER,Örnsköldsvik Airport,SE
+KRN,Kiruna Airport,SE
+SFT,Skellefteå Airport,SE
+UME,Umeå Airport,SE
+VHM,Vilhelmina South Lapland Airport,SE
+AJR,Arvidsjaur Airport,SE
+SOO,Söderhamn Airport,SE
+OSD,Åre Östersund Airport,SE
+ORB,Örebro Airport,SE
+HFS,Hagfors Airport,SE
+KSD,Karlstad Airport,SE
+VST,Stockholm Västerås Airport,SE
+LLA,Luleå Airport,SE
+ARN,Stockholm-Arlanda Airport,SE
+BMA,Stockholm-Bromma Airport,SE
+BLE,Dala Airport,SE
+GVX,Gävle Sandviken Airport,SE
+LPI,Linköping City Airport,SE
+NRK,Norrköping Airport,SE
+TYF,Torsby Airport,SE
+EKT,Eskilstuna Airport,SE
+VBY,Visby Airport,SE
+AGH,Ängelholm-Helsingborg Airport,SE
+SQO,Storuman Airport,SE
+PJA,Pajala Airport,SE
+HMV,Hemavan Airport,SE
+SPM,Spangdahlem Air Base,DE
+RMS,Ramstein Air Base,DE
+FRZ,Fritzlar Army Airfield,DE
+FCN,Nordholz Naval Airbase,DE
+GKE,Geilenkirchen Air Base,DE
+RLG,Rostock-Laage Airport,DE
+WBG,Schleswig Air Base,DE
+WIE,Wiesbaden Army Airfield,DE
+IGS,Ingolstadt Manching Airport,DE
+DGP,Daugavpils International Airport,LV
+LPX,Liepāja International Airport,LV
+RIX,Riga International Airport,LV
+VNT,Ventspils International Airport,LV
+KUN,Kaunas International Airport,LT
+PLQ,Palanga International Airport,LT
+PNV,Panevėžys Air Base,LT
+SQQ,Šiauliai International Airport,LT
+VNO,Vilnius International Airport,LT
+KFZ,Kukës International Airport,AL
+TIA,Tirana International Airport Mother Teresa,AL
+BOJ,Burgas Airport,BG
+GOZ,Gorna Oryahovitsa Airport,BG
+PDV,Plovdiv International Airport,BG
+SOF,Sofia Airport,BG
+VAR,Varna Airport,BG
+DBV,Dubrovnik Airport,HR
+OSI,Osijek Airport,HR
+PUY,Pula Airport,HR
+RJK,Rijeka Airport,HR
+BWK,Brač Airport,HR
+SPU,Split Airport,HR
+ZAG,Zagreb Airport,HR
+ZAD,Zadar Airport,HR
+ABC,Albacete Airport / Los Llanos Air Base,ES
+ALC,Alicante-Elche Miguel Hernández Airport,ES
+LEI,Almería Airport,ES
+OVD,Asturias Airport,ES
+ODB,Córdoba Airport,ES
+BIO,Bilbao Airport,ES
+RGS,Burgos Airport,ES
+BCN,Josep Tarradellas Barcelona-El Prat Airport,ES
+BJZ,Badajoz Airport,ES
+CDT,Castellón-Costa Azahar Airport,ES
+LCG,A Coruña Airport,ES
+ILD,Lleida-Alguaire Airport,ES
+GRO,Girona-Costa Brava Airport,ES
+GRX,F.G.L. Airport Granada-Jaén Airport,ES
+IBZ,Ibiza Airport,ES
+XRY,Jerez Airport,ES
+MJV,San Javier Airport,ES
+LEN,León Airport,ES
+RJL,Logroño-Agoncillo Airport,ES
+MAD,Adolfo Suárez Madrid–Barajas Airport,ES
+AGP,Málaga-Costa del Sol Airport,ES
+MAH,Menorca Airport,ES
+RMU,Región de Murcia International Airport,ES
+OZP,Moron Air Base,ES
+PMI,Palma de Mallorca Airport,ES
+PNA,Pamplona Airport,ES
+CQM,Ciudad Real International Airport,ES
+REU,Reus Airport,ES
+ROZ,Rota Naval Station Airport,ES
+SLM,Salamanca Airport,ES
+EAS,San Sebastián Airport,ES
+SCQ,Santiago-Rosalía de Castro Airport,ES
+TEV,Teruel Airport,ES
+TOJ,Madrid–Torrejón Airport / Torrejón Air Base,ES
+VLC,Valencia Airport,ES
+VLL,Valladolid Airport,ES
+VIT,Vitoria Airport,ES
+VGO,Vigo Airport,ES
+SDR,Seve Ballesteros-Santander Airport,ES
+ZAZ,Zaragoza Airport,ES
+SVQ,Sevilla Airport,ES
+CQF,Calais-Dunkerque Airport,FR
+LTQ,Le Touquet-Côte d'Opale Airport,FR
+AGF,Agen-La Garenne Airport,FR
+BOD,Bordeaux-Mérignac Airport,FR
+EGC,Bergerac-Roumanière Airport,FR
+CNG,Cognac-Châteaubernard (BA 709) Air Base,FR
+LRH,La Rochelle-Île de Ré Airport,FR
+PIS,Poitiers-Biard Airport,FR
+MCU,Montluçon-Guéret Airport,FR
+LIG,Limoges Airport,FR
+NIT,Niort-Souché Airport,FR
+TLS,Toulouse-Blagnac Airport,FR
+PUF,Pau Pyrénées Airport,FR
+LDE,Tarbes-Lourdes-Pyrénées Airport,FR
+ANG,Angoulême-Brie-Champniers Airport,FR
+PGX,Périgueux-Bassillac Airport,FR
+BIQ,Biarritz-Anglet-Bayonne Airport,FR
+ZAO,Aérodrome de Cahors-Lalbenque,FR
+LBI,Albi-Le Séquestre Airport,FR
+DCM,Castres-Mazamet Airport,FR
+RDZ,Rodez-Marcillac Airport,FR
+RYN,Royan-Médis Airport,FR
+RCO,Rochefort-Saint-Agnant (BA 721) Airport,FR
+IDY,Île d'Yeu Airport,FR
+CMR,Colmar-Houssen Airport,FR
+DLE,Dole-Tavaux Airport,FR
+OBS,Aubenas-Ardèche Méridional Airport,FR
+LPY,Le Puy-Loudes Airfield,FR
+ETZ,Metz-Nancy-Lorraine Airport,FR
+ANE,Angers-Loire Airport,FR
+BIA,Bastia-Poretta Airport,FR
+CLY,Calvi-Sainte-Catherine Airport,FR
+FSC,Figari Sud-Corse Airport,FR
+AJA,Ajaccio-Napoléon Bonaparte Airport,FR
+SOZ,Solenzara (BA 126) Air Base,FR
+AUF,Auxerre-Branches Airport,FR
+CMF,Chambéry-Savoie Airport,FR
+CFE,Clermont-Ferrand Auvergne Airport,FR
+BOU,Bourges Airport,FR
+LYS,Lyon Saint-Exupéry Airport,FR
+SYT,Saint-Yan Airport,FR
+RNE,Roanne-Renaison Airport,FR
+NCY,Annecy-Haute-Savoie-Mont Blanc Airport,FR
+GNB,Grenoble-Isère Airport,FR
+VAF,Valence-Chabeuil Airport,FR
+VHY,Vichy-Charmeil Airport,FR
+AUR,Aurillac Airport,FR
+CHR,"Châteauroux-Déols ""Marcel Dassault"" Airport",FR
+LYN,Lyon-Bron Airport,FR
+CEQ,Cannes-Mandelieu Airport,FR
+EBU,Saint-Étienne-Bouthéon Airport,FR
+CCF,Carcassonne Airport,FR
+MRS,Marseille Provence Airport,FR
+NCE,Nice-Côte d'Azur Airport,FR
+PGF,Perpignan-Rivesaltes (Llabanère) Airport,FR
+CTT,Le Castellet Airport,FR
+MPL,Montpellier-Méditerranée Airport,FR
+BZR,Béziers-Vias Airport,FR
+AVN,Avignon-Caumont Airport,FR
+MEN,Mende-Brenoux Airfield,FR
+BVA,Paris Beauvais Tillé Airport,FR
+EVX,Évreux-Fauville (BA 105) Air Base,FR
+LEH,Le Havre-Octeville Airport,FR
+XCR,Châlons-Vatry Airport,FR
+URO,Rouen Vallée de Seine Airport,FR
+TUF,Tours-Val-de-Loire Airport,FR
+CET,Cholet Le Pontreau Airport,FR
+LVA,Laval-Entrammes Airport,FR
+LBG,Paris-Le Bourget Airport,FR
+CSF,Creil Air Base,FR
+CDG,Charles de Gaulle International Airport,FR
+TNF,Toussus-le-Noble Airport,FR
+ORY,Paris-Orly Airport,FR
+POX,Aérodrome de Pontoise - Cormeilles en Vexin,FR
+VIY,Vélizy-Villacoublay Air Base,FR
+NVS,Nevers-Fourchambault Airport,FR
+LIL,Lille-Lesquin Airport,FR
+HZB,Merville-Calonne Airport,FR
+BES,Brest Bretagne Airport,FR
+CER,Cherbourg-Maupertus Airport,FR
+DNR,Dinard-Pleurtuit-Saint-Malo Airport,FR
+LBY,La Baule-Escoublac Airport,FR
+GFR,Granville Airport,FR
+DOL,Deauville-Saint-Gatien Airport,FR
+LRT,Lorient South Brittany (Bretagne Sud) Airport,FR
+EDM,La Roche-sur-Yon Airport,FR
+LDV,Landivisiau Air Base,FR
+CFR,Caen-Carpiquet Airport,FR
+LME,Le Mans-Arnage Airport,FR
+RNS,Rennes-Saint-Jacques Airport,FR
+LAI,Lannion-Côte de Granit Airport,FR
+UIP,Quimper-Cornouaille Airport,FR
+NTE,Nantes Atlantique Airport,FR
+SBK,Saint-Brieuc-Armor Airport,FR
+MXN,Morlaix-Ploujean Airport,FR
+VNE,Vannes-Meucon Airport,FR
+SNR,Saint-Nazaire-Montoir Airport,FR
+BSL,EuroAirport Basel-Mulhouse-Freiburg Airport,FR
+DIJ,Dijon-Bourgogne Airport,FR
+EPL,Épinal-Mirecourt Airport,FR
+BVE,Brive-Souillac,FR
+ENC,Nancy-Essey Airport,FR
+SXB,Strasbourg Airport,FR
+TLN,Toulon-Hyères Airport,FR
+FNI,Nîmes-Arles-Camargue Airport,FR
+PYR,Andravida Air Base,GR
+AXD,Alexandroupoli Democritus Airport,GR
+ATH,Athens Eleftherios Venizelos International Airport,GR
+VOL,Nea Anchialos National Airport,GR
+JKH,Chios Island National Airport,GR
+IOA,Ioannina Airport,GR
+HER,Heraklion International Nikos Kazantzakis Airport,GR
+EFL,Kefallinia Airport,GR
+KLX,Kalamata Airport,GR
+KGS,Kos Airport,GR
+AOK,Karpathos Airport,GR
+CFU,Ioannis Kapodistrias International Airport,GR
+KVA,Kavala Alexander the Great International Airport,GR
+KZI,Kozani State Airport Filippos,GR
+JMK,Mikonos Airport,GR
+MJT,Mytilene International Airport,GR
+PVK,Aktion National Airport,GR
+RHO,Diagoras Airport,GR
+GPA,Patras Araxos Agamemnon Airport,GR
+CHQ,Chania International Airport,GR
+JSI,Skiathos Island National Airport,GR
+SMI,Samos Airport,GR
+JTR,Santorini Airport,GR
+JSH,Sitia Airport,GR
+SKG,Thessaloniki Macedonia International Airport,GR
+ZTH,"Zakynthos International Airport ""Dionysios Solomos""",GR
+BUD,Budapest Liszt Ferenc International Airport,HU
+DEB,Debrecen International Airport,HU
+PEV,Pécs-Pogány Airport,HU
+SOB,Hévíz–Balaton Airport,HU
+CRV,Crotone Airport,IT
+BRI,Bari Karol Wojtyła Airport,IT
+FOG,"Foggia ""Gino Lisa"" Airport",IT
+TAR,"Taranto-Grottaglie ""Marcello Arlotta"" Airport",IT
+LCC,Lecce Galatina Air Base,IT
+PSR,Abruzzo Airport,IT
+BDS,Brindisi Airport,IT
+SUF,Lamezia Terme Airport,IT
+CIY,Comiso Airport,IT
+CTA,Catania-Fontanarossa Airport,IT
+LMP,Lampedusa Airport,IT
+PNL,Pantelleria Airport,IT
+PMO,Falcone–Borsellino Airport,IT
+REG,Reggio Calabria Airport,IT
+TPS,Vincenzo Florio Airport Trapani-Birgi,IT
+NSY,Sigonella Navy Air Base,IT
+AHO,Alghero-Fertilia Airport,IT
+DCI,Decimomannu Air Base,IT
+CAG,Cagliari Elmas Airport,IT
+OLB,Olbia Costa Smeralda Airport,IT
+TTB,Tortolì Airport,IT
+MXP,Malpensa International Airport,IT
+BGY,Milan Bergamo Airport,IT
+TRN,Turin Airport,IT
+ALL,Villanova D'Albenga International Airport,IT
+GOA,Genoa Cristoforo Colombo Airport,IT
+LIN,Milano Linate Airport,IT
+PMF,Parma Airport,IT
+AOT,Aosta Airport,IT
+CUF,Cuneo International Airport,IT
+AVB,Aviano Air Base,IT
+BZO,Bolzano Airport,IT
+BLQ,Bologna Guglielmo Marconi Airport,IT
+TSF,Treviso-Sant'Angelo Airport,IT
+FRL,Forlì Airport,IT
+VBS,Brescia Airport,IT
+TRS,Trieste–Friuli Venezia Giulia Airport,IT
+RMI,Federico Fellini International Airport,IT
+VRN,Verona-Villafranca Valerio Catullo Airport,IT
+AOI,Marche Airport,IT
+VCE,Venice Marco Polo Airport,IT
+SAY,Siena-Ampugnano Airport,IT
+CIA,Ciampino–G. B. Pastine International Airport,IT
+FCO,Rome–Fiumicino Leonardo da Vinci International Airport,IT
+QSR,Salerno Costa d'Amalfi Airport,IT
+EBA,Marina Di Campo Airport,IT
+NAP,Naples International Airport,IT
+PSA,Pisa International Airport,IT
+FLR,Peretola Airport,IT
+GRS,Grosseto Air Base,IT
+PEG,Perugia San Francesco d'Assisi – Umbria International Airport,IT
+LJU,Ljubljana Jože Pučnik Airport,SI
+MBX,Maribor Airport,SI
+POW,Portorož Airport,SI
+UHE,Kunovice Airport,CZ
+KLV,Karlovy Vary International Airport,CZ
+OSR,Ostrava Leos Janáček Airport,CZ
+PED,Pardubice Airport,CZ
+PRV,Přerov Air Base,CZ
+PRG,Václav Havel Airport Prague,CZ
+BRQ,Brno-Tuřany Airport,CZ
+VOD,Vodochody Airport,CZ
+MLA,Malta International Airport,MT
+GRZ,Graz Airport,AT
+INN,Innsbruck Airport,AT
+KLU,Klagenfurt Airport,AT
+LNZ,Linz-Hörsching Airport / Vogler Air Base,AT
+SZG,Salzburg Airport,AT
+VIE,Vienna International Airport,AT
+AVR,Alverca Air Base,PT
+SMA,Santa Maria Airport,PT
+BGC,Bragança Airport,PT
+BYJ,Beja Airport / Airbase,PT
+BGZ,Braga Municipal Aerodrome,PT
+CBP,Aerodromo Municipal de Coimbra,PT
+CAT,Cascais Airport,PT
+FLW,Flores Airport,PT
+FAO,Faro Airport,PT
+GRW,Graciosa Airport,PT
+HOR,Horta Airport,PT
+TER,Lajes Airport,PT
+FNC,Madeira International Airport Cristiano Ronaldo,PT
+QLR,Monte Real Air Base,PT
+PDL,João Paulo II Airport,PT
+PIX,Pico Airport,PT
+PRM,Portimão Airport,PT
+OPO,Francisco de Sá Carneiro Airport,PT
+PXO,Porto Santo Airport,PT
+LIS,Humberto Delgado Airport (Lisbon Portela Airport),PT
+SJZ,São Jorge Airport,PT
+VRL,Vila Real Airport,PT
+VSE,Aerodromo Goncalves Lobato (Viseu Airport),PT
+BNX,Banja Luka International Airport,BA
+OMO,Mostar International Airport,BA
+SJJ,Sarajevo International Airport,BA
+TZL,Tuzla International Airport,BA
+ARW,Arad International Airport,RO
+BCM,Bacău Airport,RO
+BAY,Maramureș International Airport,RO
+BBU,Băneasa International Airport,RO
+CND,Mihail Kogălniceanu International Airport,RO
+CLJ,Cluj-Napoca International Airport,RO
+CSB,Caransebeş Airport,RO
+CRA,Craiova Airport,RO
+IAS,Iaşi Airport,RO
+OMR,Oradea International Airport,RO
+OTP,Henri Coandă International Airport,RO
+GHV,Brașov-Ghimbav International Airport (U.C.),RO
+SBZ,Sibiu International Airport,RO
+SUJ,Satu Mare Airport,RO
+SCV,Suceava Stefan cel Mare Airport,RO
+TCE,Tulcea Danube Delta Airport,RO
+TGM,Transilvania Târgu Mureş International Airport,RO
+TSR,Timişoara Traian Vuia Airport,RO
+GVA,Geneva Cointrin International Airport,CH
+SIR,Sion Airport,CH
+EML,Emmen Air Base,CH
+LUG,Lugano Airport,CH
+BRN,Bern-Belp Airport,CH
+ZRH,Zürich Airport,CH
+ACH,St Gallen Altenrhein Airport,CH
+SMV,Samedan Airport,CH
+ISL,İstanbul Atatürk Airport,TR
+TEQ,Tekirdağ Çorlu Airport,TR
+IST,İstanbul Airport,TR
+BZY,Bălți International Airport,MD
+KIV,Chişinău International Airport,MD
+OHD,Ohrid St. Paul the Apostle Airport,MK
+SKP,Skopje International Airport,MK
+GIB,Gibraltar Airport,GI
+UZC,Ponikve Airport,RS
+BEG,Belgrade Nikola Tesla Airport,RS
+BJY,Batajnica Air Base,RS
+KVO,Morava Airport,RS
+INI,Nis Airport,RS
+TGD,Podgorica Airport / Podgorica Golubovci Airbase,ME
+TIV,Tivat Airport,ME
+BTS,M. R. Štefánik Airport,SK
+KSC,Košice Airport,SK
+PZY,Piešťany Airport,SK
+SLD,Sliač Airport,SK
+TAT,Poprad-Tatry Airport,SK
+ILZ,Žilina Airport,SK
+GUW,Atyrau International Airport,KZ
+BQT,Brest Airport,BY
+GME,Gomel Airport,BY
+VTB,Vitebsk Vostochny Airport,BY
+GNA,Hrodna Airport,BY
+MSQ,Minsk National Airport,BY
+MVQ,Mogilev Airport,BY
